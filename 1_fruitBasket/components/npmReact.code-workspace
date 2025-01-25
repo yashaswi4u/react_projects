@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../npmReact"
+		},
+		{
+			"path": "../../React"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}

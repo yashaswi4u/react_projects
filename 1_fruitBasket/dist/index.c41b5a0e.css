@@ -1,0 +1,12 @@
+section {
+  justify-content: space-between;
+  align-items: center;
+  max-width: 1000px;
+  margin-top: 4rem;
+  display: flex;
+}
+
+button img {
+  max-width: 20px;
+}
+/*# sourceMappingURL=index.c41b5a0e.css.map */
